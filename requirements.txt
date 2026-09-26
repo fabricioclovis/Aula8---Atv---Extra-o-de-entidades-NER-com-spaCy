@@ -2,3 +2,5 @@ streamlit
 spacy
 pandas
 nltk
+groq
+python-dotenv
