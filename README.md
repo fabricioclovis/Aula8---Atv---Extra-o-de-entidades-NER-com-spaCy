@@ -1,0 +1,1 @@
+# Aula8---Atv---Extra-o-de-entidades-NER-com-spaCy
